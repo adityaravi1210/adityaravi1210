@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Ravi</h1>
-<h3 align="center"> Bridging Data Science & Product Management | Ex-Deloitte</h3>
+<h3 align="center"> Bridging Data Science & Product Management | Cornell M.Eng '22 MBA '23 | Ex-Deloitte</h3>
 
 <img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
