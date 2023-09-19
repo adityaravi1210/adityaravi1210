@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaravi1210&label=Profile%20views&color=0e75b6&style=flat" alt="adityaravi1210" /> </p>
 
-🔭 I’m currently working on **PhotoSynthesisAI - _A Generative AI passion project_**
+🔭 I’m currently working on **PhotoSynthesisAI - _Generative AI passion project_**
 
 🌱 I’m currently learning **Prompt Engineering & AI Model Optimization**
 
-💬 Ask me about **Tech Consulting, Industry Best Practices & AI Trends**
+💬 Ask me about **Tech Consulting, Industry Best Practices, Practical Applications of Data Science & AI Trends**
 
 📫 How to reach me **contactadityaravi@gmail.com**
 
