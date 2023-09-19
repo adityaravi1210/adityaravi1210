@@ -16,7 +16,7 @@
 
 📄 Know about my experiences [https://tinyurl.com/yc53cdef](https://tinyurl.com/yc53cdef)
 
-⚡ Fun fact **Discovered Asteroid (TOV6L3) in my junior year of high school**
+⚡ Fun fact: **Discovered asteroid (TOV6L3) in my junior year of high school**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
