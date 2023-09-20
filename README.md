@@ -14,7 +14,7 @@
 
 📫 How to reach me **contactadityaravi@gmail.com**
 
-📄 Know about my experiences [https://tinyurl.com/yc53cdef](https://tinyurl.com/yc53cdef)
+📄 Know about my experiences [https://tinyurl.com/3cj73pas](https://tinyurl.com/3cj73pas)
 
 ⚡ Fun fact: **Discovered asteroid (TOV6L3) in my junior year of high school**
 
