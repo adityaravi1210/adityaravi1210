@@ -3,10 +3,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaravi1210&label=Profile%20views&color=0e75b6&style=flat" alt="adityaravi1210" /> </p>
 
-🔭 I’m currently working on **PhotoSynthesisAI - _Generative AI passion project_**
+:desktop_computer: I have over 4 years of technical consulting experience having worked with Deloitte while having also provided services to firms spanning sectors such as TMT, healthcare, asset management, digital community platforms, and content strategy in the US, UK, and India.
+
+:gear: I've honed skills in analytics, machine learning, AI, market research, API management, cloud engineering, and system integration.
+
+:wrench: Proficient in Python, R, SQL, IBM SPSS, Microsoft Excel, Power BI, Oracle, SOA, Kong, Boomi, JIRA, Git, P4v, Jenkins, and more.
 
 🌱 I’m currently learning **Prompt Engineering & AI Model Optimization**
 
@@ -34,6 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaravi1210&show_icons=true&locale=en" alt="adityaravi1210" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaravi1210&" alt="adityaravi1210" /></p>
+
 
 
 <!---
