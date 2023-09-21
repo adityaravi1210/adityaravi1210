@@ -60,7 +60,7 @@
 ---
 ### :page_facing_up: My Certifications:
 - Certified Scrum Product Owner (CSPO)
-- Certified Scrum Master (SCM)
+- Certified Scrum Master (CSM)
 - Advanced Google Analytics
 - Google Ads Search Certification
 - Advanced Ads Display Certification
