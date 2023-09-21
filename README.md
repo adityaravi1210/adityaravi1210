@@ -41,20 +41,21 @@
 ---
 ### :writing_hand: Education:
 
-**CORNELL SC JOHNSON COLLEGE OF BUSINESS** | Ithaca, NY  
-_Master of Business Administration with Distinction_
-• Lester B. Knight Scholar (Merit-Based Scholarship), Dean’s List  
-• Technology Product Management Specialization, High Tech Club, Marketing Association, Sports Analytics Club  
-• Teaching Assistant: Market Research, Customer Analytics, Decision Framing, Negotiations, Managing Innovation  
+### CORNELL SC JOHNSON COLLEGE OF BUSINESS | Ithaca, NY
+**Master of Business Administration with Distinction**
+- Lester B. Knight Scholar (Merit-Based Scholarship), Dean’s List
+- Associations & Clubs: High Tech Club, Marketing Association, Sports Analytics Club
+- Teaching Assistant Roles: Market Research, Customer Analytics & Strategy, Decision Framing & Analytics, Negotiations & Contracts, Managing a Culture of Innovation
 
-**CORNELL UNIVERSITY COLLEGE OF ENGINEERING** | Ithaca, NY  
-_Master of Engineering in Engineering Management_, Analytics Specialization | GPA: 4.19   
-• Class of 2022: M.Eng. Degree Marshal and Class Valedictorian   
-• CEE Graduate Student Association Officer, Cornell Graduate Consulting Club, Big Red Toastmasters, SNAP Cornell  
+### CORNELL UNIVERSITY COLLEGE OF ENGINEERING | Ithaca, NY
+**Master of Engineering in Engineering Management**, Analytics Specialization | GPA: 4.19
+- Class of 2022: M.Eng. Degree Marshal and Class Valedictorian
+- Associations & Clubs: CEE Graduate Student Association Officer, Cornell Graduate Consulting Club, Big Red Toastmasters, SNAP Cornell
 
-**VELLORE INSTITUTE OF TECHNOLOGY** | Vellore, India  
-_Bachelor of Technology in Electronics & Communications Engineering_ | GPA: 3.98   
-• Business Development Manager, AIESEC in VIT; Co-founder, Texas Instruments Chapter; Vice President, SEDS-VIT  
+### VELLORE INSTITUTE OF TECHNOLOGY | Vellore, India
+**Bachelor of Technology in Electronics & Communications Engineering** | GPA: 3.98
+- Associations & Clubs: AIESEC in VIT, Texas Instruments Student Chapter, SEDS-VIT, One Space
+ 
 
 ---
 ### :page_facing_up: My Certifications:
