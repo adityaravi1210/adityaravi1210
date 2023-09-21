@@ -38,7 +38,58 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaravi1210&" alt="adityaravi1210" /></p>
 
+---
+### :writing_hand: Education:
 
+**CORNELL SC JOHNSON COLLEGE OF BUSINESS** | Ithaca, NY  
+_Master of Business Administration with Distinction_
+• Lester B. Knight Scholar (Merit-Based Scholarship), Dean’s List  
+• Technology Product Management Specialization, High Tech Club, Marketing Association, Sports Analytics Club  
+• Teaching Assistant: Market Research, Customer Analytics, Decision Framing, Negotiations, Managing Innovation  
+
+**CORNELL UNIVERSITY COLLEGE OF ENGINEERING** | Ithaca, NY  
+_Master of Engineering in Engineering Management_, Analytics Specialization | GPA: 4.19   
+• Class of 2022: M.Eng. Degree Marshal and Class Valedictorian   
+• CEE Graduate Student Association Officer, Cornell Graduate Consulting Club, Big Red Toastmasters, SNAP Cornell  
+
+**VELLORE INSTITUTE OF TECHNOLOGY** | Vellore, India  
+_Bachelor of Technology in Electronics & Communications Engineering_ | GPA: 3.98   
+• Business Development Manager, AIESEC in VIT; Co-founder, Texas Instruments Chapter; Vice President, SEDS-VIT  
+
+---
+### :page_facing_up: My Certifications:
+- Certified Scrum Product Owner (CSPO)
+- Certified Scrum Master (SCM)
+- Advanced Google Analytics
+- Google Ads Search Certification
+- Advanced Ads Display Certification
+- Google Ads App Certification
+- Dell Boomi Professional Architect
+- Dell Boomi Flow Developer
+- Diploma in French Language Studies
+
+---
+### :medal_sports: My Awards:
+
+- **Master of Business Administration with Distinction**: Awarded by The Samuel Curtis Johnson Graduate School of Management to MBA degree recipients who achieve a cumulative Grade Point Average in the top ten percent of their program.
+  
+- **M.Eng Degree Marshal 2022**: This honor is conferred upon the most academically distinguished student across all 14 M.Eng programs at Cornell University.
+
+- **Winner (Most Innovative Solution)**: Cornell Animal Health Hackathon, 2023
+
+- **Winner (Most Potential for Market)**: Cornell Digital Agriculture Hackathon, 2022
+
+- **Winner**: Johnson Battle of the Brands Competition, 2022
+
+- **3 x Spot Award**: Deloitte India (Offices of the US)
+
+- **1 x Applause Award**: Deloitte India (Offices of the US)
+
+- **Best Intern**: AIESEC in Vietnam Volunteering Initiative
+
+- **Numismatics**: World's #1 Ranked East India Company 1/12 Anna Coin Set
+
+  
 
 <!---
 adityaravi1210/adityaravi1210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
