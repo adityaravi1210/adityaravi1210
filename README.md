@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaravi1210&label=Profile%20views&color=0e75b6&style=flat" alt="adityaravi1210" /> </p>
 
-:desktop_computer: I have over 4 years of technical consulting experience having worked with Deloitte while having also provided services to firms spanning sectors including TMT, healthcare, asset management, digital community platforms, and marketing in the US, UK, and India.
+:desktop_computer: I have over 5 years of technical consulting experience having worked with Deloitte while having also provided services to firms spanning sectors including TMT, Fintech (Payments), healthcare, asset management, digital community platforms, and marketing in the US, UK, and India.
 
 :gear: I've honed skills in analytics, machine learning, AI, market research, API management, cloud engineering, and system integration.
 
