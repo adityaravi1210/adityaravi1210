@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aditya Ravi</h1>
-<h3 align="center"> Bridging Data Science & Product Management | Cornell M.Eng '22 MBA '23 | Ex-Deloitte</h3>
+<h3 align="center">AI x Digital Transformation | Senior Associate @ BNY | Cornell M.Eng '22, MBA '23</h3>
 
 <img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaravi1210&label=Profile%20views&color=0e75b6&style=flat" alt="adityaravi1210" /> </p>
 
-:desktop_computer: I have over 5 years of technical consulting experience having worked with Deloitte while having also provided services to firms spanning sectors including TMT, Fintech (Payments), healthcare, asset management, digital community platforms, and marketing in the US, UK, and India.
+:desktop_computer: **Senior Associate in Digital Transformation** at BNY International Operations, specializing in AI & automation for the Alternatives Investment Services sector. With 6+ years of experience in fintech, healthcare, asset management, and consulting, I lead initiatives that leverage AI and machine learning to transform business processes, driving strategic decisions and operational efficiency.
 
-:gear: I've honed skills in analytics, machine learning, AI, market research, API management, cloud engineering, and system integration.
+:gear: **Core Competencies**: Generative AI, Multi-Agent Solutions, Classical AI/ML model development, data science, ETL, RPA, Big Data, Visualization, cloud computing, automation, digital transformation, API management, system integration, and market research.
 
-:wrench: Proficient in Python, R, SQL, IBM SPSS, Microsoft Excel, Power BI, Oracle, SOA, Kong, Boomi, JIRA, Git, P4v, Jenkins, and more.
+:wrench: **Proficient in**: Python, R, SQL, IBM SPSS, Microsoft Excel, Power BI, Alteryx, UiPath, Thoughtspot, N8N, Metabase, Oracle, Boomi, JIRA, Git.
 
-🌱 I’m currently learning **Prompt Engineering & AI Model Optimization**
+💬 **Ask me about**: Practical applications of AI/ML, digital transformation strategies, data science, and fintech.
 
-💬 Ask me about **Tech Consulting, Industry Best Practices, Practical Applications of Data Science & AI Trends**
+📫 **Contact me**: [contactadityaravi@gmail.com](mailto:contactadityaravi@gmail.com)
 
-📫 How to reach me **contactadityaravi@gmail.com**
-
-📄 Know about my experiences: **[Resume](https://tinyurl.com/3cj73pas)**
-
-⚡ Fun fact: **Discovered asteroid (TOV6L3) in my junior year of high school**
+⚡ **Fun fact**: Discovered asteroid (TOV6L3) during high school.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,6 +57,9 @@
 ### :page_facing_up: My Certifications:
 - Certified Scrum Product Owner (CSPO)
 - Certified Scrum Master (CSM)
+- Alteryx Core Designer
+- UiPath Automation Developer Associate
+- Azure Fundamentals
 - Advanced Google Analytics
 - Google Ads Search Certification
 - Advanced Ads Display Certification
